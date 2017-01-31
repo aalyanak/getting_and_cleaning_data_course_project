@@ -7,12 +7,12 @@
 
 ### Discrete values in the "activities" column:
 
-  * `laying` (value `1`): subject was laying down during the test
-  * `sitting` (value `2`): subject was sitting during the test
-  * `standing` (value `3`): subject was standing during the test
-  * `walking` (value `4`): subject was walking during the test
-  * `walkingdownstairs` (value `5`): subject was walking downstairs during the test
-  * `walkingupstairs` (value `6`): subject was walking upstairs during the test
+  1. `laying`: subject was laying down during the test
+  2. `sitting`: subject was sitting during the test
+  3. `standing`: subject was standing during the test
+  4. `walking`: subject was walking during the test
+  5. `walkingdownstairs`: subject was walking downstairs during the test
+  6. `walkingupstairs`: subject was walking upstairs during the test
 
 ## Other Features
 
